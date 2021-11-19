@@ -1,0 +1,2 @@
+# AI-paskaita
+# AI-paskaita
