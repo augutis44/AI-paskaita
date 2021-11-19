@@ -1,0 +1,25 @@
+title: AI primer
+author: trokas
+copyright: "MIF, 2021"
+
+execute:
+  execute_notebooks: 'off'
+
+launch_buttons:
+  notebook_interface: classic
+  colab_url: https://colab.research.google.com
+  binderhub_url: https://mybinder.org
+
+repository:
+  url: https://github.com/trokas/ai_primer
+  path_to_book: ""
+  branch: master
+
+parse:
+  myst_extended_syntax: true
+  myst_enable_extensions:
+    - amsmath
+
+sphinx:
+  config:
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
